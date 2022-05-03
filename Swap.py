@@ -16,4 +16,4 @@ a = a^b
 b = b^a
 a = a^b
 
-a,b
+print(a,b)

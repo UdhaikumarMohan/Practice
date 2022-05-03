@@ -1,4 +1,11 @@
-nums = [12, 30, 45, 17]
+nums = [12, 30, 45, 17, 17]
+nums.remove(17)
+nums
+if 12 not in nums:
+    print("Yes")
+
+else:
+    print("No")
 nums.insert(0,77)
 nums.pop()
 nums

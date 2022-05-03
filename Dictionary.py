@@ -1,4 +1,12 @@
 data = {1:'Udhai', 2:'Pavithra', 3:'Madhan', 4:'Akhila'}
+
+if data[1]=="Udhai":
+
+    print("yes")
+
+for a in data:
+    print(a)
+data.items()
 data
 #Specify the keys to fetch values
 data[2]
